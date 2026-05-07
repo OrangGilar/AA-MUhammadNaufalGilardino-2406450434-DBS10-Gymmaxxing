@@ -1,6 +1,7 @@
 # GymMaxxing
 A full-stack workout logging web app built with React.js, Express.js, and PostgreSQL. Track your exercise sessions with exercise name, date, sets, reps, and intensity.
 
+note: The backend deployment, like railway, render, etc., isn't supported on the free tier of available platforms without payment verification. So I just deploy the frontend. (I already setup neon too for the db). To see my full-stack work, you can just do it locally by following the prerequisites below. Thank you.
 ---
 
 ## Prerequisites
